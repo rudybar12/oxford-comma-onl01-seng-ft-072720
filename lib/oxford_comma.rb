@@ -1,6 +1,6 @@
 def oxford_comma(array)
- array == ["kiwi"]
- results = array.join
+ arrays == ["kiwi"]
+ results = arrays.join
   puts results
 
 end
