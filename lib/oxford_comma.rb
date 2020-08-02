@@ -1,5 +1,6 @@
 def oxford_comma(array)
-array == ["kiwi"].join
-puts array
+ array = ["kiwi"]
+ results = array.join
+  puts results
 
 end
